@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "282890012611",
+    "firebase_url": "https://sqldemo-dd332.firebaseio.com",
+    "project_id": "sqldemo-dd332",
+    "storage_bucket": "sqldemo-dd332.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282890012611:android:fe2d32563f6561c8",
+        "android_client_info": {
+          "package_name": "chouhan.in.sql_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282890012611-78a7avrh8ftomvadu0btvqeeir18uf4j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "chouhan.in.sql_demo",
+            "certificate_hash": "7257124de0ddea7f025d67b8737fc42f35feeac4"
+          }
+        },
+        {
+          "client_id": "282890012611-ea0id0tgg632kior7q4jahmp0va8uul0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAljPYBANQZXuhKONMmIG-6G4hF5tUhjjw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282890012611-ea0id0tgg632kior7q4jahmp0va8uul0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
